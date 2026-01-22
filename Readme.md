@@ -20,6 +20,6 @@ Languages: Python, Shell scripting, YAML
 
 📌 Current Focus
 
-Preparing for DevSecOps / Cloud Engineering roles
+Woring for DevSecOps / Cloud Engineering roles
 Enhancing hands‑on skills in AWS architecture, automation and security
 Working on personal projects to showcase cloud-native and DevOps capabilities
